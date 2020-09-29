@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'lib-localized',
   templateUrl: './localized.component.html',
